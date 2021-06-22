@@ -34,7 +34,6 @@ GIF created with [Kap](https://getkap.co/).
 
 Describe any challenges encountered while building the app.
 
-There was a challenging conceptually understanding the role of the ItemAdapter class
 
 ## License
 
